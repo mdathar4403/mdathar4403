@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monaco&duration=5000&color=00FFC6&vCenter=true&lines=Hi+I+am+Md+Athar;I'm+currently+learning+Express;and+React;)
 
 <h1 align="center">Hi 👋, I'm MD ATHAR</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>

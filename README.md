@@ -23,14 +23,8 @@
 <a href="https://www.codechef.com/users/mdathar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mdathar" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/cosmohack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="cosmohack" height="30" width="40" /></a>
 </p>
-<div display="flex>
 
-<img width ="200" src="https://github.com/mdathar4403/mdathar4403/blob/main/img1.png">
-<img width ="200" src="https://github.com/mdathar4403/mdathar4403/blob/main/img1.png">
-<img width ="200" src="https://github.com/mdathar4403/mdathar4403/blob/main/img2.png">
-<img width ="200" src="https://github.com/mdathar4403/mdathar4403/blob/main/img3.png">
-<img width ="200" src="https://github.com/mdathar4403/mdathar4403/blob/main/img4.png">
-</div>
+<img width ="1000" src="https://holopin.me/mdathar">
 
 <h3 align="left">Languages and Tools:</h3>
 

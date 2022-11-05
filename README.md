@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm MD ATHAR</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
-<img align="rigt" alt="Coding" width="400" src="https://www.techbabble.zone/content/images/size/w1140/2021/07/46207-programmer-1.gif">
+<img  alt="Coding" width="500" src="https://www.techbabble.zone/content/images/size/w1140/2021/07/46207-programmer-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdathar4403&label=Profile%20views&color=0e75b6&style=flat" alt="mdathar4403" /> </p>
 

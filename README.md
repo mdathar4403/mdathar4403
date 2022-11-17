@@ -24,6 +24,14 @@
 <a href="https://codeforces.com/profile/cosmohack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="cosmohack" height="30" width="40" /></a>
 </p>
 
+|![github-user-contribution](https://user-images.githubusercontent.com/109308073/200136854-36889630-86c6-4fb8-b261-976b6ac08274.svg)
+|---|
+
+> **✍️ Random Dev Quote**:
+---
+|![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)|
+|---|
+
 <img width ="1000" src="https://holopin.me/mdathar">
 
 <h3 align="left">Languages and Tools:</h3>

@@ -1,10 +1,10 @@
 ![banner](https://user-images.githubusercontent.com/109308073/202793525-b2d35c97-1687-46ed-a44a-86504d86c81c.png)
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monaco&duration=4000&color=00FFC6&vCenter=true&lines=Hi+I+am+Md+Athar+from+IIT+VARANASI;I'm+currently+learning+React;+Javascript,+Tailwind,+Express;+Also+exploring+NLP+techniques;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monaco&duration=4000&color=00FFC6&vCenter=true&lines=Hi+I+am+Md+Athar+from+IIT+VARANASI;I'm+currently+learning+React;+Angular,+Node,+Express;+Also+exploring+NLP+techniques;)
 
 <h1 align="center">Hi 👋, I'm MD ATHAR</h1>
-<h3 align="center">A passionate Frontend developer from India</h3>
+<h3 align="center">A passionate Fullstack developer from India</h3>
 <img  alt="Coding" width="500" src="https://www.techbabble.zone/content/images/size/w1140/2021/07/46207-programmer-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdathar4403&label=Profile%20views&color=0e75b6&style=flat" alt="mdathar4403" /> </p>
